@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="vTigerScripts.Script1_LoginApplication_Test"/>
+      <class name="vTigerScripts.Script2_CreateOrganization_Test"/>
+      <class name="vTigerScripts.Script3_CreateOrganizationWithIndustryType_Test"/>
+      <class name="vTigerScripts.Script4_CreateContacts_Test"/>
+      <class name="vTigerScripts.Script5_CreateCampaigns_Test"/>
+      <class name="vTigerScripts.Script6_CreateLeads_Test"/>
+      <class name="vTigerScripts.Script7_CreateProducts_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

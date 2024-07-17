@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Report Generation]]>
+    </line>
+    <line>
+      <![CDATA[script4_createContacts]]>
+    </line>
+    <line>
+      <![CDATA[script4_createContacts Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[script4_createContacts Passed]]>
+    </line>
+    <line>
+      <![CDATA[Close Report]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-13T15:16:06 IST" name="Default suite" finished-at="2024-07-13T15:16:43 IST" duration-ms="36841">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T15:16:06 IST" name="Default test" finished-at="2024-07-13T15:16:43 IST" duration-ms="36841">
+      <class name="vTigerScripts.Script4_CreateContacts_Test">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:vTigerScripts.Script4_CreateContacts_Test@7db12bb6]" started-at="2024-07-13T15:16:05 IST" name="beforeSuite" finished-at="2024-07-13T15:16:06 IST" duration-ms="491" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Report Generation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:vTigerScripts.Script4_CreateContacts_Test@7db12bb6]" started-at="2024-07-13T15:16:06 IST" name="beforeClass" finished-at="2024-07-13T15:16:10 IST" duration-ms="4168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:vTigerScripts.Script4_CreateContacts_Test@7db12bb6]" started-at="2024-07-13T15:16:10 IST" name="beforeMethod" finished-at="2024-07-13T15:16:14 IST" duration-ms="3981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void vTigerScripts.Script4_CreateContacts_Test.script4_createContacts() throws org.apache.poi.EncryptedDocumentException,java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[script4_createContacts]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="script4_createContacts()[pri:0, instance:vTigerScripts.Script4_CreateContacts_Test@7db12bb6]" started-at="2024-07-13T15:16:14 IST" name="script4_createContacts" finished-at="2024-07-13T15:16:40 IST" duration-ms="26373" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[script4_createContacts Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[script4_createContacts Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- script4_createContacts -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:vTigerScripts.Script4_CreateContacts_Test@7db12bb6]" started-at="2024-07-13T15:16:40 IST" name="afterMethod" finished-at="2024-07-13T15:16:42 IST" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:vTigerScripts.Script4_CreateContacts_Test@7db12bb6]" started-at="2024-07-13T15:16:42 IST" name="afterClass" finished-at="2024-07-13T15:16:43 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:vTigerScripts.Script4_CreateContacts_Test@7db12bb6]" started-at="2024-07-13T15:16:43 IST" name="afterSuite" finished-at="2024-07-13T15:16:43 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Report]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- vTigerScripts.Script4_CreateContacts_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
